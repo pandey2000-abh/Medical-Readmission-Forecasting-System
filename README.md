@@ -1,4 +1,4 @@
-# Hospital Readmission Prediction Analytics
+# Medical Readmission Prediction Analytics
 
 This Jupyter notebook in Python provides a solution to the problem of predicting the likelihood of hospital readmission for patients, as required by the Hospital Readmissions Reduction Program (HRRP). The HRRP requires the Center for Medicare and Medicaid Services (CMS) to reduce payments to Inpatient Prospective Payment System (IPPS) hospitals with excess readmissions for certain medical conditions. A readmission is defined as a patient returning to the hospital within 30 days of discharge for the same reason of the initial admission, which is an indication of poor quality of initial care or care coordination following discharge from the hospital.
 
